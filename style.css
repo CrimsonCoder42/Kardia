@@ -1,0 +1,55 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(blockChainHeader1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+  font-size: 3rem;
+  color:#FAFAFC;
+}
+
+hr {
+  margin: 15px auto;
+  color: #C3CEDA;
+  border: 2px solid #C3CEDA;
+  max-width: 65px;
+  opacity: .7;  
+}
+
+.buffer {
+  height: 10rem;
+}
+
+
+.btn{
+  font-weight: 600;
+  border-radius: 250px;
+  text-transform: uppercase;
+  
+}
+
+.btn-primary{
+  background-color:#0C4160;
+  border-color:  #0C4160;
+  border-width: 4px;
+}
+
+.btn-primary:hover{
+  background-color: #FAFAFC;
+  color:#738FA7;
+  border-color:#738FA7;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+.em{
+  color: #E3E7F1;
+}
